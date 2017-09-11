@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dogs>
  <dog>
-  <name>Kodiak</name>
-  <breed>Poodle</breed>
+  <name>Pickle</name>
+  <breed>Pug</breed>
  </dog>
 <dog>
-  <name>Major</name>
+  <name>Yippie</name>
+  <breed>Yorki</breed>
+ </dog>
+ <dog>
+  <name>Larry</name>
+  <breed>Labrador</breed>
+ </dog>
+ <dog>
+  <name>Barry</name>
   <breed>Boxer</breed>
  </dog>
  <dog>
-  <name>Luke</name>
-  <breed>Poodle Mix</breed>
- </dog>
- <dog>
-  <name>Ella</name>
-  <breed>Black Lab</breed>
- </dog>
- <dog>
-  <name>Libby</name>
-  <breed>Black Lab</breed>
+  <name>Duke</name>
+  <breed>Dane</breed>
  </dog>
 </dogs>
