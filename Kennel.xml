@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Kennel>
-  <dog>
-    <name>Rufus</name>
-	<breed>Labrador</breed>
-	<name>Pickle</name>
-	<breed>Yorki</breed>
-  </dog>
-  
-  
-
-</Kennel>
+<dogs>
+ <dog>
+  <name>Kodiak</name>
+  <breed>Poodle</breed>
+ </dog>
+<dog>
+  <name>Major</name>
+  <breed>Boxer</breed>
+ </dog>
+ <dog>
+  <name>Luke</name>
+  <breed>Poodle Mix</breed>
+ </dog>
+ <dog>
+  <name>Ella</name>
+  <breed>Black Lab</breed>
+ </dog>
+ <dog>
+  <name>Libby</name>
+  <breed>Black Lab</breed>
+ </dog>
+</dogs>
