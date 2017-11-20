@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dogs>
  <dog>
-  <name>Pickle</name>
-  <breed>Pug</breed>
+  <breed>Boxer</breed>
+  <name>Bradley</name>
  </dog>
 <dog>
-  <name>Yippie</name>
-  <breed>Yorki</breed>
+  <breed>Corgi</breed>
+  <name>Carl</name>
  </dog>
  <dog>
-  <name>Larry</name>
-  <breed>Labrador</breed>
- </dog>
- <dog>
-  <name>Barry</name>
-  <breed>Boxer</breed>
- </dog>
- <dog>
-  <name>Duke</name>
   <breed>Dane</breed>
+  <name>Diana</name>
  </dog>
+ <dog>
+  <breed>Boxer</breed>
+  <name>Bilbo</name>
+ </dog>
+ <dog>
+  <breed>Boxer</breed>
+  <name>Broc</name>
+ </dog>
+ <dog>
+  <breed>Dane</breed>
+  <name>Doug</name>
+</dog>
 </dogs>
