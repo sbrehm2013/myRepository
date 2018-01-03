@@ -8,7 +8,7 @@
        <title lang="en">Harry Potter</title> 
        <author>J K. Rowling</author> 
        <year>2005</year> 
-       <price>THIS IS FROM THE XML :D</price> </book> 
+       <price>Priceless :D</price> </book> 
    <book category="web"> 
        <title lang="en">XQuery Kick Start</title> 
        <author>James McGovern</author> 
